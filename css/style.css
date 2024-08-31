@@ -17,3 +17,14 @@
   max-width: 174px;
   z-index: 11;
 }
+
+.header__inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.header-logo {
+  max-width: 174px;
+  z-index: 11;
+}
