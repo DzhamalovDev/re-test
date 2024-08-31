@@ -4,7 +4,7 @@
 }
 
 .header__top {
-  padding-top: 19px;
+  padding-top: 10px;
 }
 
 .header__top-inner {
@@ -31,5 +31,6 @@
 .header-logo {
   max-width: 174px;
   z-index: 11;
+  color: black;
   color: aliceblue;
 }
